@@ -1,0 +1,6 @@
+
+favourite film: "Pulp fiction"
+favourite tv show: "Shameless"
+favourite food: Any dishes with cheese, especially cheesecakes
+favourite season: Spring
+country-to-visit: Portugal
